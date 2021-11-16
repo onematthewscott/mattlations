@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Matt.
-- 👀 I’m interested in Machine Learning, iOS App Development, and Artificial Intelligence. 
-- 🌱 I’m currently learning CSE 231 at Michigan State University. 
-- 💞️ I’m looking to collaborate on iOS projects. 
-- 📫 How to reach me: herna757@msu.edu 
+ __Matthew Hernandez__
+
+View my academic/professional journey here: https:www.linkedin.com/matthdz
 
 
+![Cat on desk with me in chair](https://media.giphy.com/media/WTiJwq5cEY1gsRHJt9/giphy.gif)
