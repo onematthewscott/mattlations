@@ -1,5 +1,4 @@
- __Matthew Hernandez__
-<h1 align="center">Student @ CodePath iOS</h1>
+<h1 align="center">Matthew S. Hernandez</h1>
 
 
 https://www.linkedin.com/matthdz
